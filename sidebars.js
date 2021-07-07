@@ -429,10 +429,7 @@ module.exports = {
       type: "category",
       label: "Concepts WIP",
       collapsed: true,
-      items: [
-        "concepts-new/introduction",
-        "concepts-new/history-entries",
-      ],
+      items: ["concepts-new/introduction", "concepts-new/history-entries"],
     },
   ],
 };
