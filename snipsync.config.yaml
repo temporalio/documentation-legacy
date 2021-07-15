@@ -25,6 +25,8 @@ origins:
     repo: samples-java
   - owner: temporalio
     repo: temporal-ecommerce
+  - owner: vkarpov15
+    repo: samples-node
 
 targets:
   - docs

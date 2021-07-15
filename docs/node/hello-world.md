@@ -77,7 +77,7 @@ The Worker connects to the Service and runs Workflows and Activities.
 [API reference](https://nodejs.temporal.io/api/modules/client)
 
 The client can be used to schedule Workflows and send other requests to the Temporal Service.
-It can be used in any NodeJS process e.g an express app and does not depend on the Worker.
+It can be used in any NodeJS process (e.g. an Express app) and does not depend on the Worker.
 
 `src/worker/schedule-workflow.ts`
 
